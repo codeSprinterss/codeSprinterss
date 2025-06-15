@@ -24,7 +24,7 @@ const dfs = (node) => {
     if (visited[nextNode] === false) {
       visited[nextNode] = true;
       dfs(nextNode);
-      subtreeSize[node] += subtreeSize[nextNode]; // 부모에 카운팅 반영
+      subtreeSize[node] += subtreeSize[nextNode]; // 후처리(post-order)로 부모에 카운팅 반영
     }
   }
 };
