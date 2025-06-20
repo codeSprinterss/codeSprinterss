@@ -1,3 +1,11 @@
+#### Week 31 - Dynamic Programming (25.06.16)
+
+| 유형                | 제목                                                                   | 풀이 |
+| ------------------- | ---------------------------------------------------------------------- | :--: |
+| Dynamic Programming | [백준 2302 : 극장 좌석](https://www.acmicpc.net/problem/2302)          |
+| Dynamic Programming | [백준 2565 : 전깃줄](https://www.acmicpc.net/problem/2565)             |
+| Dynamic Programming | [백준 15989 : 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |
+
 #### Week 30 - Tree DP (25.06.09)
 
 | 유형    | 제목                                                                | 풀이 |
