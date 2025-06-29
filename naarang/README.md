@@ -1,3 +1,11 @@
+#### Week 32 - 카카오 블라인드 기출문제 (25.06.23)
+
+| 유형 | 제목                                                                                                 | 풀이 |
+| ---- | ---------------------------------------------------------------------------------------------------- | :--: |
+|      | [프로그래머스 : 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
+|      | [프로그래머스 : 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)          |
+|      | [프로그래머스 : 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)  |
+
 #### Week 31 - Dynamic Programming (25.06.16)
 
 | 유형                | 제목                                                                   | 풀이 |
