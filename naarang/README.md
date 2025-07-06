@@ -1,3 +1,19 @@
+#### Week 32 - 카카오 블라인드 기출문제 (25.06.23)
+
+| 유형 | 제목                                                                                                 | 풀이 |
+| ---- | ---------------------------------------------------------------------------------------------------- | :--: |
+|      | [프로그래머스 : 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
+|      | [프로그래머스 : 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)          |
+|      | [프로그래머스 : 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)  |
+
+#### Week 31 - Dynamic Programming (25.06.16)
+
+| 유형                | 제목                                                                   | 풀이 |
+| ------------------- | ---------------------------------------------------------------------- | :--: |
+| Dynamic Programming | [백준 2302 : 극장 좌석](https://www.acmicpc.net/problem/2302)          |
+| Dynamic Programming | [백준 2565 : 전깃줄](https://www.acmicpc.net/problem/2565)             |
+| Dynamic Programming | [백준 15989 : 1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989) |
+
 #### Week 30 - Tree DP (25.06.09)
 
 | 유형    | 제목                                                                | 풀이 |
